@@ -4,3 +4,4 @@ Determined how effectively and accurately the salary can be predicted by finding
 To acccess the source code and interface of the document, you can use this path: /salary_prediction_model_analysis.ipynb
 
 To access the HTML version of the report, you can use this path: /salary_prediction_model.html
+NOTE: Please download the html file to get the rendered document interface
